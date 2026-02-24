@@ -2,7 +2,7 @@
 ZenMind 是一款 [Hexo](https://hexo.io/) 简洁单栏主题。其名来源于中文「静思」，寓意深入思考与宁静的心境。
 这款主题旨在为读者和作者提供一个简洁、宁静的阅读与写作环境。
 
-由 [@lenchou95](https://twitter.com/lenchou95) 修改自 [one-paper](https://github.com/zheli-design/hexo-theme-one-paper)
+由 [@zhoulianglen](https://twitter.com/zhoulianglen) 修改自 [one-paper](https://github.com/zheli-design/hexo-theme-one-paper)
 
 ## Live Demo
 
